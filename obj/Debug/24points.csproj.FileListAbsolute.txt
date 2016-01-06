@@ -1,0 +1,9 @@
+D:\My projects\24points\24points\bin\Debug\24points.exe.config
+D:\My projects\24points\24points\bin\Debug\24points.exe
+D:\My projects\24points\24points\bin\Debug\24points.pdb
+D:\My projects\24points\24points\obj\Debug\24points.csprojResolveAssemblyReference.cache
+D:\My projects\24points\24points\obj\Debug\_24points.Properties.Resources.resources
+D:\My projects\24points\24points\obj\Debug\24points.csproj.GenerateResource.Cache
+D:\My projects\24points\24points\obj\Debug\24points.exe
+D:\My projects\24points\24points\obj\Debug\24points.pdb
+D:\My projects\24points\24points\obj\Debug\_24points.Form1.resources
